@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-image {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-stars-bg.png');
+    background-size: cover;
+    text-align: center;
+    color: white;
+    padding: 70px;
+    font-family: Bree Serif;
+    font-size: 14px;
+    background-color: #03174c;
+}
+
+.bg-img2 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png');
+    height: 30%;
+    border-top-right-radius: 7px;
+    border-top-left-radius: 7px;
+    background-size: cover;
+    font-size: 10px;
+    padding: 30px;
+}
+
+.bottom-div {
+    background-color: #03174c;
+    color: white;
+    text-align: center;
+    font-family: Bree Serif;
+    padding: 50px;
+}
+
+.h111 {
+    font-size: 25px;
+    margin-bottom: 55px;
+}
+
+button {
+    background-color: #8e97fd;
+    border-radius: 10px;
+    color: white;
+    border-style: none;
+}
+
+/* Below styles are for details page.*/
+.image-card {
+    width: 45%;
+    margin: 3px;
+    font-family: bree serif;
+    color: white;
+}
+
+.top-im {
+    width: 100%;
+    height: 30%;
+}
+
+.bottom {
+    background-color: #03174c;
+    color: white;
+    font-family: bree serif;
+    padding: 20px;
+
+}
